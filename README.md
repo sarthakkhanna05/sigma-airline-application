@@ -1,10 +1,11 @@
 # INCOGNITO CODE 
 
 # Team Members:
+
+* Sarthak Khanna
+* Hanish Punamiya
 * Prerana Uppalapati
 * Praneetha Moturi 
-* Hanish Punamiya
-* Sarthak Khanna
 
 # Tech Stack:
        MERN Stack
