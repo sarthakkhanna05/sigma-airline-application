@@ -1,4 +1,4 @@
-# INCOGNITO CODE 
+# Sigma Airline Application
 
 # Team Members:
 
